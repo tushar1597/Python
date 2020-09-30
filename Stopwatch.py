@@ -1,4 +1,4 @@
-
+#with this program you can use stop watch without your mobile phones
 from tkinter import *
 
 global count
